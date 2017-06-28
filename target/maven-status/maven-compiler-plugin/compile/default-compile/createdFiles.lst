@@ -1,0 +1,16 @@
+org/semanticwb/xmlrpc/AnnotatedMethod.class
+org/semanticwb/xmlrpc/XmlProxy.class
+org/semanticwb/xmlrpc/WBFileUpload$CParameter.class
+org/semanticwb/xmlrpc/AnnotationManager.class
+org/semanticwb/xmlrpc/XmlRpcException.class
+org/semanticwb/xmlrpc/Attachment.class
+org/semanticwb/xmlrpc/HttpException.class
+org/semanticwb/xmlrpc/AnnotatedClassImpl.class
+org/semanticwb/xmlrpc/XmlRpcProxyFactory.class
+org/semanticwb/xmlrpc/AnnotatedClass.class
+org/semanticwb/xmlrpc/Base64.class
+org/semanticwb/xmlrpc/AnnotatedMethodImpl.class
+org/semanticwb/xmlrpc/XmlResponse.class
+org/semanticwb/xmlrpc/WBFileUpload.class
+org/semanticwb/xmlrpc/XmlRpcClientConfig.class
+org/semanticwb/xmlrpc/XmlRpcClient.class
