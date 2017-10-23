@@ -1,2 +1,2 @@
 # SWBXMLRPCClient
-Cliente XMLRPC para SemanticWebBuilder
+XMLRPC Client for SemanticWebBuilder
